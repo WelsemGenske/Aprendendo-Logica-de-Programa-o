@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705080835 source:d:\users\welsem\onedrive\Área de trabalho\curso_programacao\secao_9_linguagem_c\`01) exercicios\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
