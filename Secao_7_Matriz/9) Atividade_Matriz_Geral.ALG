@@ -79,10 +79,16 @@ Inicio
          se mat[i, j] < 0 entao
             mat[i, j] <- exp(mat[i, j], 2)
          fimse
-         
+      fimpara
+   fimpara
+   
+   para i de 0 ate N-1 faca
+      para j de 0 ate N-1 faca
          escreva(mat[i, j]:5:1, " ")
       fimpara
       escreval
    fimpara
+   
+   
    
 Fimalgoritmo
