@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\bin\Debug\net8.0\2.1)_Atividade_RETANGULO.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\bin\Debug\net8.0\2.1)_Atividade_RETANGULO.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\bin\Debug\net8.0\2.1)_Atividade_RETANGULO.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\bin\Debug\net8.0\2.1)_Atividade_RETANGULO.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\bin\Debug\net8.0\2.1)_Atividade_RETANGULO.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\refint\2.1)_Atividade_RETANGULO.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\2.1)_Atividade_RETANGULO.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.1)_Atividade_RETANGULO\2.1)_Atividade_RETANGULO\obj\Debug\net8.0\ref\2.1)_Atividade_RETANGULO.dll

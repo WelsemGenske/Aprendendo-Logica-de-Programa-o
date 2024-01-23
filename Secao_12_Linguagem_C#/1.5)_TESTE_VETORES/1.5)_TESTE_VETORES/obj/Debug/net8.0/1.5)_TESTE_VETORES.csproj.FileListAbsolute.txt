@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\bin\Debug\net8.0\1.5)_TESTE_VETORES.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\bin\Debug\net8.0\1.5)_TESTE_VETORES.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\bin\Debug\net8.0\1.5)_TESTE_VETORES.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\bin\Debug\net8.0\1.5)_TESTE_VETORES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\bin\Debug\net8.0\1.5)_TESTE_VETORES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\refint\1.5)_TESTE_VETORES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\1.5)_TESTE_VETORES.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.5)_TESTE_VETORES\1.5)_TESTE_VETORES\obj\Debug\net8.0\ref\1.5)_TESTE_VETORES.dll

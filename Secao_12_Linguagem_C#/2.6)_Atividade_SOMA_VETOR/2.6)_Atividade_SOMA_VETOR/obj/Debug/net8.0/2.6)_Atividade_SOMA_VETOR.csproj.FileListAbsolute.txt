@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\bin\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\bin\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\bin\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\bin\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\bin\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\refint\2.6)_Atividade_SOMA_VETOR.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\2.6)_Atividade_SOMA_VETOR.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.6)_Atividade_SOMA_VETOR\2.6)_Atividade_SOMA_VETOR\obj\Debug\net8.0\ref\2.6)_Atividade_SOMA_VETOR.dll

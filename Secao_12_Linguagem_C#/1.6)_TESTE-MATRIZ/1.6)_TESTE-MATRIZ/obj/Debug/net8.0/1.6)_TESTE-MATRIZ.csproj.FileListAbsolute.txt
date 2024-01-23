@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\bin\Debug\net8.0\1.6)_TESTE-MATRIZ.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\bin\Debug\net8.0\1.6)_TESTE-MATRIZ.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\bin\Debug\net8.0\1.6)_TESTE-MATRIZ.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\bin\Debug\net8.0\1.6)_TESTE-MATRIZ.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\bin\Debug\net8.0\1.6)_TESTE-MATRIZ.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\refint\1.6)_TESTE-MATRIZ.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\1.6)_TESTE-MATRIZ.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.6)_TESTE-MATRIZ\1.6)_TESTE-MATRIZ\obj\Debug\net8.0\ref\1.6)_TESTE-MATRIZ.dll

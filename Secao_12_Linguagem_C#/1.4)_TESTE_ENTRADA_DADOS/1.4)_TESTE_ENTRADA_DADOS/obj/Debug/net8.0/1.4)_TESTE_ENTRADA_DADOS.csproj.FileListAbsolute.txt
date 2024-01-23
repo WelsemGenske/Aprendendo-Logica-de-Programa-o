@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\bin\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\bin\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\bin\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\bin\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\bin\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\refint\1.4)_TESTE_ENTRADA_DADOS.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\1.4)_TESTE_ENTRADA_DADOS.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.4)_TESTE_ENTRADA_DADOS\1.4)_TESTE_ENTRADA_DADOS\obj\Debug\net8.0\ref\1.4)_TESTE_ENTRADA_DADOS.dll

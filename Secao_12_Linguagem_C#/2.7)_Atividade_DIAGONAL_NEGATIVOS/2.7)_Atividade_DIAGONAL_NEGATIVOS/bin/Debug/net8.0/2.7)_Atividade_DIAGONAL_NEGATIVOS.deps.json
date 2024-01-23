@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2.7)_Atividade_DIAGONAL_NEGATIVOS/1.0.0": {
+        "runtime": {
+          "2.7)_Atividade_DIAGONAL_NEGATIVOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2.7)_Atividade_DIAGONAL_NEGATIVOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

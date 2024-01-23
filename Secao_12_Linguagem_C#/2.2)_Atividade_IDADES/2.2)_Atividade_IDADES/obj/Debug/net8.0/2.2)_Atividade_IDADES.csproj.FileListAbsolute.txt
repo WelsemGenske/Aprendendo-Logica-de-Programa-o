@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\bin\Debug\net8.0\2.2)_Atividade_IDADES.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\bin\Debug\net8.0\2.2)_Atividade_IDADES.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\bin\Debug\net8.0\2.2)_Atividade_IDADES.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\bin\Debug\net8.0\2.2)_Atividade_IDADES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\bin\Debug\net8.0\2.2)_Atividade_IDADES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\refint\2.2)_Atividade_IDADES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\2.2)_Atividade_IDADES.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.2)_Atividade_IDADES\2.2)_Atividade_IDADES\obj\Debug\net8.0\ref\2.2)_Atividade_IDADES.dll

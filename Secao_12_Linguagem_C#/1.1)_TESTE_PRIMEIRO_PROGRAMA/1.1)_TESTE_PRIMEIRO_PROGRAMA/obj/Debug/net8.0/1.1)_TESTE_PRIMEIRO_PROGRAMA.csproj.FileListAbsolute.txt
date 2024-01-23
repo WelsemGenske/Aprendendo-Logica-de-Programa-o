@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\bin\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\bin\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\bin\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\bin\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\bin\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\refint\1.1)_TESTE_PRIMEIRO_PROGRAMA.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\1.1)_TESTE_PRIMEIRO_PROGRAMA.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.1)_TESTE_PRIMEIRO_PROGRAMA\1.1)_TESTE_PRIMEIRO_PROGRAMA\obj\Debug\net8.0\ref\1.1)_TESTE_PRIMEIRO_PROGRAMA.dll

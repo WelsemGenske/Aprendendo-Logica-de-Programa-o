@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\bin\Debug\net8.0\2.4)_Atividade_CRESCENTE.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\bin\Debug\net8.0\2.4)_Atividade_CRESCENTE.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\bin\Debug\net8.0\2.4)_Atividade_CRESCENTE.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\bin\Debug\net8.0\2.4)_Atividade_CRESCENTE.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\bin\Debug\net8.0\2.4)_Atividade_CRESCENTE.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\refint\2.4)_Atividade_CRESCENTE.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\2.4)_Atividade_CRESCENTE.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.4)_Atividade_CRESCENTE\2.4)_Atividade_CRESCENTE\obj\Debug\net8.0\ref\2.4)_Atividade_CRESCENTE.dll

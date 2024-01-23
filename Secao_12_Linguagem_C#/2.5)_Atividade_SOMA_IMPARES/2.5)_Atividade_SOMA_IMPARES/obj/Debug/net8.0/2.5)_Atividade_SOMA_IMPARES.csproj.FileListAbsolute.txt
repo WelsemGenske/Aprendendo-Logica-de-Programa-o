@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\bin\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\bin\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\bin\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\bin\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\bin\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\refint\2.5)_Atividade_SOMA_IMPARES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\2.5)_Atividade_SOMA_IMPARES.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.5)_Atividade_SOMA_IMPARES\2.5)_Atividade_SOMA_IMPARES\obj\Debug\net8.0\ref\2.5)_Atividade_SOMA_IMPARES.dll

@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\bin\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\bin\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\bin\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\bin\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\bin\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\refint\2.8)_Atividade_MATRIZ_GERAL.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\2.8)_Atividade_MATRIZ_GERAL.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.8)_Atividade_MATRIZ_GERAL\2.8)_Atividade_MATRIZ_GERAL\obj\Debug\net8.0\ref\2.8)_Atividade_MATRIZ_GERAL.dll

@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\bin\Debug\net8.0\1.2)_TESTE_VARIAVEIS.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\bin\Debug\net8.0\1.2)_TESTE_VARIAVEIS.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\bin\Debug\net8.0\1.2)_TESTE_VARIAVEIS.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\bin\Debug\net8.0\1.2)_TESTE_VARIAVEIS.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\bin\Debug\net8.0\1.2)_TESTE_VARIAVEIS.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\refint\1.2)_TESTE_VARIAVEIS.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\1.2)_TESTE_VARIAVEIS.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\1.2)_TESTE_VARIAVEIS\1.2)_TESTE_VARIAVEIS\obj\Debug\net8.0\ref\1.2)_TESTE_VARIAVEIS.dll

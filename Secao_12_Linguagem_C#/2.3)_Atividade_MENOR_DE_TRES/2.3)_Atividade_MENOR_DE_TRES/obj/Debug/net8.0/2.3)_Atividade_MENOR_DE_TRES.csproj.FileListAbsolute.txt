@@ -1,0 +1,15 @@
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\bin\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.exe
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\bin\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.deps.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\bin\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.runtimeconfig.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\bin\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\bin\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.AssemblyInfoInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.AssemblyInfo.cs
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.csproj.CoreCompileInputs.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.sourcelink.json
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\refint\2.3)_Atividade_MENOR_DE_TRES.dll
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.pdb
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\2.3)_Atividade_MENOR_DE_TRES.genruntimeconfig.cache
+D:\Users\welsem\OneDrive\Área de Trabalho\Curso_Programacao\Secao_12_Linguagem_C#\2.3)_Atividade_MENOR_DE_TRES\2.3)_Atividade_MENOR_DE_TRES\obj\Debug\net8.0\ref\2.3)_Atividade_MENOR_DE_TRES.dll
